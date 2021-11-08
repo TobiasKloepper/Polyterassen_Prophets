@@ -1,0 +1,53 @@
+.PNG
+*/.ipynb_checkpoints
+.ipynb_checkpoints
+__pycache__/
+
+# /data
+
+# pycharm and ipython
+.idea/
+/ipynb_checkponts
+/.ipynb_checkponts
+./visualization/.ipynb_checkpoints
+
+# latex stuff
+latex-templates/**/*.pdf
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.fls
+*.fdb_latexmk
+*.toc
+*.gz
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.bak
+*.run.xml
+
+# R
+*.Rproj
+*.Rproj.user
+*.RData
+*.Rhistory
+*.dcf
+.Rproj.user
+
+# sublime
+*.sublime-*
+
+# course-related
+groups.txt
+submissions-2020
+grading-checklist.txt
+todo.txt
+
+# file formats examples dfs
+src/
+!src/*.py
+!src/*.R
+ 
